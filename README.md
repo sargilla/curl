@@ -189,7 +189,6 @@ This template is open-sourced software licensed under the [MIT license](http://o
 
 ## Contact
 
-Jan Oris (developer)
+Santiago Argilla (developer)
 
-- Email: jan.oris@ixudra.be
-- Telephone: +32 496 94 20 57
+- Email: sargilla@gmail.com
