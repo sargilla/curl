@@ -10,9 +10,7 @@ class CurlService {
      */
     public function to($url)
     {
-        $curl = new Curl();
-
-        return $builder->to($url);
+        return new Curl();
     }
 
 }
