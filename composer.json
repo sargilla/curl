@@ -3,7 +3,7 @@
     "description": "PHP Curl library for the Laravel 5",
     "version": "1.0.0",
     "keywords": ["sargilla", "Laravel", "Curl"],
-    "homepage": "http://sargilla.be",
+    "homepage": "http://sargilla.com.ar",
     "license": "MIT",
 
     "authors": [
