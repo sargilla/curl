@@ -10,7 +10,7 @@ class CurlService {
      */
     public function to($url)
     {
-        return new Curl();
+        return new Curl($url);
     }
 
 }

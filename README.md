@@ -11,7 +11,7 @@ Pull this package in through Composer.
 
     {
         "require": {
-            "sargilla/curl": "1.*"
+            "sargilla/curl": "dev-master"
         }
     }
 
@@ -33,11 +33,11 @@ Add the service provider to your `config/app.php` file:
 
 ```
 
-Add the facade to your `config/app.php` file:
+Add the alias to your `config/app.php` file:
 
 ```php
 
-    'facades'       => array(
+    'aliases'       => array(
 
         //...
         'Curl'          => Sargilla\Curl\Facades\Curl::class,
